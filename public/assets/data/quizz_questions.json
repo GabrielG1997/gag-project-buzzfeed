@@ -1,0 +1,132 @@
+{
+    "title": "Você é mais Front-End, Back-End, Full Stack ou... nem dev deveria ser?",
+    "question": [
+      {
+        "id": 1,
+        "question": "Qual parte de um site você prefere trabalhar?",
+        "options": [
+          { "id": 1, "name": "Design e interação com o usuário", "alias": "front" },
+          { "id": 2, "name": "Lógica e banco de dados", "alias": "back" },
+          { "id": 3, "name": "Um pouco dos dois", "alias": "full" },
+          { "id": 4, "name": "Prefiro pintar quadros ou escrever poesia", "alias": "out" }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual ferramenta te empolga mais?",
+        "options": [
+          { "id": 1, "name": "Figma / Adobe XD", "alias": "front" },
+          { "id": 2, "name": "PostgreSQL / MongoDB", "alias": "back" },
+          { "id": 3, "name": "Docker / Git", "alias": "full" },
+          { "id": 4, "name": "Canva / TikTok", "alias": "out" }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "O que te frustra mais?",
+        "options": [
+          { "id": 1, "name": "Alinhar elementos com CSS", "alias": "front" },
+          { "id": 2, "name": "Erros de conexão com o banco", "alias": "back" },
+          { "id": 3, "name": "Deploy quebrando de última hora", "alias": "full" },
+          { "id": 4, "name": "Qualquer coisa que envolva código", "alias": "out" }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual linguagem você prefere?",
+        "options": [
+          { "id": 1, "name": "JavaScript / TypeScript", "alias": "front" },
+          { "id": 2, "name": "Java / Python", "alias": "back" },
+          { "id": 3, "name": "Go / Rust", "alias": "full" },
+          { "id": 4, "name": "Libras ou Klingon", "alias": "out" }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual dessas atividades te parece mais divertida?",
+        "options": [
+          { "id": 1, "name": "Criar animações com CSS e JS", "alias": "front" },
+          { "id": 2, "name": "Construir uma API REST", "alias": "back" },
+          { "id": 3, "name": "Otimizar o desempenho da aplicação", "alias": "full" },
+          { "id": 4, "name": "Jogar RPG de mesa com os amigos", "alias": "out" }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Como você prefere debugar?",
+        "options": [
+          { "id": 1, "name": "Usando o console do navegador", "alias": "front" },
+          { "id": 2, "name": "Analisando logs do servidor", "alias": "back" },
+          { "id": 3, "name": "Rodando testes automatizados", "alias": "full" },
+          { "id": 4, "name": "Chorando no banho", "alias": "out" }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Qual dessas situações te deixaria mais satisfeito?",
+        "options": [
+          { "id": 1, "name": "Ver o usuário final feliz com a interface", "alias": "front" },
+          { "id": 2, "name": "Ver a performance da API melhorando", "alias": "back" },
+          { "id": 3, "name": "Receber elogios pela solução como um todo", "alias": "full" },
+          { "id": 4, "name": "Ganhar um prêmio de cosplay no Anime Friends", "alias": "out" }
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Qual stack você escolheria para um projeto pessoal?",
+        "options": [
+          { "id": 1, "name": "React + Tailwind", "alias": "front" },
+          { "id": 2, "name": "Spring Boot + PostgreSQL", "alias": "back" },
+          { "id": 3, "name": "Next.js + Prisma", "alias": "full" },
+          { "id": 4, "name": "Lápis, papel e criatividade", "alias": "out" }
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Quando você pensa em API, o que vem à mente?",
+        "options": [
+          { "id": 1, "name": "Algo que o front precisa chamar", "alias": "front" },
+          { "id": 2, "name": "Algo que eu crio com orgulho", "alias": "back" },
+          { "id": 3, "name": "Algo que preciso entender dos dois lados", "alias": "full" },
+          { "id": 4, "name": "Uma nova boy band coreana?", "alias": "out" }
+        ]
+      },
+      {
+        "id": 10,
+        "question": "Com o que você mais se preocupa?",
+        "options": [
+          { "id": 1, "name": "UI e UX impecáveis", "alias": "front" },
+          { "id": 2, "name": "Performance e segurança", "alias": "back" },
+          { "id": 3, "name": "Experiência completa do sistema", "alias": "full" },
+          { "id": 4, "name": "Se o meu café esfriou", "alias": "out" }
+        ]
+      },
+      {
+        "id": 11,
+        "question": "Qual dessas você mais gostaria de fazer?",
+        "options": [
+          { "id": 1, "name": "Criar uma landing page linda", "alias": "front" },
+          { "id": 2, "name": "Desenhar a estrutura de um banco de dados", "alias": "back" },
+          { "id": 3, "name": "Planejar a arquitetura de um sistema", "alias": "full" },
+          { "id": 4, "name": "Montar um bar temático de D&D", "alias": "out" }
+        ]
+      },
+      {
+        "id": 12,
+        "question": "Você está cansado e quer relaxar. O que faz?",
+        "options": [
+          { "id": 1, "name": "Vê tutoriais de animação com CSS 😍", "alias": "front" },
+          { "id": 2, "name": "Estuda arquitetura hexagonal por hobby", "alias": "back" },
+          { "id": 3, "name": "Refatora aquele projeto antigo por diversão", "alias": "full" },
+          { "id": 4, "name": "Assiste maratona de Star Wars em ordem cronológica", "alias": "out" }
+        ]
+      }
+    ],
+    "results": {
+      "front": "✨ Você tem alma de Front-End! Curte criar experiências lindas e ama ver o usuário feliz. Só cuidado com o CSS, ele morde.",
+      "back": "🔧 Você é um Back-End raiz! Ama resolver bugs obscuros, otimizar consultas e criar APIs poderosas. Banco de dados é seu parquinho.",
+      "full": "🧠 Você é Full Stack! O equilíbrio perfeito entre a luz e a escuridão, entre o botão bonito e o endpoint funcional. Um verdadeiro Jedi da programação.",
+      "out": "🎭 Talvez programar não seja sua praia... Mas você com certeza seria um ótimo barista geek, poeta do GitHub ou mestre de RPG. E o mundo precisa de você também!"
+    }
+  }
+  
