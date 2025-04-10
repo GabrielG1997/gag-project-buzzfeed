@@ -1,0 +1,27 @@
+.quizz__container{
+width: 80%;
+margin: auto;
+margin-top: 5rem;
+}
+.quizz_logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+.quizz_logo > h3{
+    margin-top: 5rem;
+}
+.quizz_questions{
+
+}
+.quizz_options{
+
+}
+.btn_option{
+
+}
+.results{
+
+}
